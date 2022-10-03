@@ -1,0 +1,25 @@
+> RESUMEN CLASE 2 <
+
+Definiciones:
+
+La terminal: Es un programa que esta presente en todos los sistemas operativos. Usando la terminal podemos darle ordenes al sistema.Ej: crear carpeta o archivo.
+
+Navegacion e interaccion con ficheros:  
+-De tipo informativo  (pwd :mostrar el nombre de la carpeta en el que uno se encuentra situado, Cd: Cambiar la carpeta de trabajo: Con este comando nos podemos mover entre diferentes directorios. Si queremos ir a un directorio en particular, Ls: Listar el contenido de directorios (list): Este comando lista los ficheros y carpetas.) 
+-Crear o eliminar carpetas (mkdir:  Crear un carpeta, rmdir: Borrar un carpeta). 
+-Crear o eliminar archivos: (gedit: Crear y editar archivos de texto, rm: Borrar archivo). 
+-Copiar archivos y directorios: (cp: Copiar un archivo o carpeta en el directorio especificado (copy), cp -r: Copiar carpetas, Lmv: Mover un archivo o carpeta a un archivo o carpeta (move))
+
+-Comando: Es una orden o instruccion capaz de ser interpretada y ejecutada por la computadora.
+-Sintaxis de comando: Es su manera de ser escrita para que la computadora pueda entender y ejecutar lo que el usuario le especifica por medio del comando.
+
+-Comandos basicos:
+ -ls:  Muestra los archivos de la carpeta en la que estamos ubicados (windows usando powershell)
+ -dir:  Muestra los archivos de la carpeta en la que estamos ubicados.
+ -cd:  Nos permite retroceder una carpeta
+ -rm nombreArchivo.extension:  Elimina el archivo que le indiquemos (no debemos olvidar la extension) -
+ -mv nombreAnterior nombreNuevo:  Cambia el nombre de un archivo por el nombre que le indiquemos.
+ -clear:  Limpia todo lo que hayamos escrito en el terminal
+ -cd nombreCarpeta:  Nos permite acceder a la carpeta que le indiquemos.
+ -mkdir nombreCarpeta:  Crea una carpeta con el nombre que le indiquemos.
+ -touch nombreArchivo.extension:  Crea un archivo de texto con el nombre indicado (aclarado en la extension), para powershell usar "echo $null > nombreArchivo.extension

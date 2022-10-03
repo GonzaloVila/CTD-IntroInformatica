@@ -1,0 +1,27 @@
+> RESUMEN CLASE 1 <
+
+Definiciones:
+
+-Computadora: es un dispositivo electrónico capaz de recibir instrucciones y ejecutarlas. Estas instrucciones son dadas por un usuario, por medio de una interfaz que presenta el sistema operativo lo cual hace más sencilla la comunicación entre el usuario y la máquina. El sistema operativo interpreta y ejecuta con los recursos que dispone, a estos recursos se les conoce como hardware y todo lo que interpreta y ejecuta los deseos del usuario es el software
+-Historia de las computadoras.
+
+-Hardware : El hardware o equipo se refiere a las partes físicas, tangibles, de un sistema informático, sus componentes eléctricos, electrónicos, electromecánicos y mecánicos.
+  -Entrad: Son aquellos componentes que permiten el ingreso de información, en general desde alguna fuente externa o por parte del usuario.
+  -Salida: Son aquellos que permiten dar salida a la información resultante de las operaciones realizadas por la CPU.
+  -Internos: El hardware interno es el conjunto de componentes físicos que forman parte del dispositivo principal, siendo inseparable de este.
+
+-Software: Sistema formal de un sistema informático, que comprende el conjunto de los componentes lógicos necesarios que hacen posible la realización de tareas específicas, en contraposición a los componentes físicos que son llamados hardware.
+  -Sistemas: El software de sistema le procura al usuario y programador adecuadas interfaces de alto nivel, controladores, herramientas y utilidades de apoyo que permiten el mantenimiento del sistema global.
+  -Programacion: Es el conjunto de herramientas que permite al programador desarrollar programas de informática, usando diferentes alternativas y lenguajes de programación, de una manera práctica.
+  -Aplicacion: Es aquel que permite a los usuarios llevar a cabo una o varias tareas específicas, en cualquier campo de actividad susceptible de ser automatizado o asistido, con especial énfasis en los negocios.
+
+-Servidores: Un servidor es una computadora capaz de atender las peticiones de un cliente y devolverle una respuesta en concordancia.
+  -Web: Almacena documentos HTML, imágenes, archivos de texto, escrituras, y demás material web compuesto por datos (conocidos colectivamente como contenido) y distribuye este contenido a clientes que lo piden en la red.
+  -Base de datos: Provee servicios de base de datos a otros programas u otras computadoras, como es definido por el modelo cliente-servidor.
+  -Archivos: Es el que almacena varios tipos de archivos y los distribuye a otros clientes en la red.
+
+Interfaz de Usuario (UI): La interfaz de usuario es el espacio donde se producen las interacciones entre seres humanos y máquinas. El objetivo de esta interacción es permitir el funcionamiento y control más efectivo del sistema informático desde la interacción con el humano.
+  -Interfaz de linea de comando(CLI): Interfaces alfanuméricas (intérpretes de comandos) que solo presentan texto.
+  -Interfaz grafica de usuario(GUI): Permiten comunicarse con la computadora de forma rápida e intuitiva representando gráficamente los elementos de control y medida.
+  -Interfaz nativa de usuario(NUI): Pueden ser táctiles, representando gráficamente un "panel de control" en una pantalla sensible al tacto que permite interactuar con el dedo de forma similar a si se accionara un control físico; pueden funcionar mediante reconocimiento del habla.
+

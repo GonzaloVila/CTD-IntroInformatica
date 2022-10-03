@@ -1,0 +1,10 @@
+¿Qué tipo de amenaza es?
+¿Cómo comienza y cómo se propaga esta amenaza?
+¿Hay más de una amenaza aplicada ?
+
+
+1)Es un ransomware y spyware que entran a travas de un troyano llamado ToxicEye
+
+2)Específicamente, la cadena de ataque comienza con la creación de un bot de Telegram por parte del atacante, que luego se incrusta en el archivo de configuración de RAT, antes de compilarlo en un ejecutable Este archivo .EXE luego se inyecta en un documento de señuelo de Word que, cuando se abre, descarga y ejecuta Telegram RAT
+
+3)Robo, encriptacion de la informacio, y espionaje.

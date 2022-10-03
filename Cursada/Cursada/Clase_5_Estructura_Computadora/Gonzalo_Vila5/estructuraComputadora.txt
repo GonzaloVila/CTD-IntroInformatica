@@ -1,0 +1,44 @@
+CPU o PROCESADOR: (Unidad Central de Procesos) 
+-----------------
+Se coloca en un zocalo.
+Es el cerebro, interpreta y ejecuta las instrucciones de forma aritmetica y logica.
+Recibe datos, muestra resultados, procesa info, almacena, transcribe o imprime el resultado.
+
+BUSES de DATOS: 
+---------------
+Cables que llevan los pulsos electricos (que se representan en binario) con las isntrucciones de un componente a otro
+
+PLACA MADRE: 
+------------
+Placa principal a donde se conectara TODO
+
+MEMORIAS:
+---------
+RAM: memoria temporal, se limpia al reiniciar la PLACA
+ROM: memoria permanente, almacena todo lo necesario para el inicio de la maquina y funciones basicas
+CACHE: la mas rapida del sistema, almacena lo mas utilizado para acelerar Procesos
+
+ALMACENAMIENTO SECUNDARIO: (disco rigido o duro)
+--------------------------
+almacena la info que la pc NO NECESITA para funcionar
+
+PLACA VIDEO:
+------------
+tiene multiples nucleos que procesan gran cantidad de informacion para devolver imagenes de calidad que seran devueltas por el monitor. Algunas veces se utilizan para procesos logicos para alivianar el trabajo de la CPU
+
+PLACA SONIDO:
+-------------
+emite y recibe los sonidos de la PC (microfono y parlantes)
+
+PERIFERICOS:
+------------
+todo aquello que la PC no necesita para funcionar, teclado, mouse, discos extraibles, pendrive, modem, electricos
+pueden ser: de entrada, salida o mixtos
+
+FRECUENCIA:
+-----------
+nº de cambios que puede realizar por segundo un componente
+
+IPC: Instrucciones Por Ciclo
+----
+Mide la cantidad de instrucciones que realiza el PROCESADOR
